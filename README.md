@@ -25,18 +25,20 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate 
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Data Science, Optimization and Blockchain Technology
-- 📫 How to reach me: gianni.licitra7@gmail.com
 - 😄 Pronouns: he/ him
 - ⚡ Fun fact:  
 
 
-### 🔗 &nbsp; Connect with me/ see my work
+### 🔗 &nbsp; Connect with me/see my work
 <p align="left">
 <a href="www.linkedin.com/in/giovanni-licitra" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="G-Licitra" height="30" width="40" /></a>
-<a href="[https://scholar.google.com/citations?user=9KdO6XMAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=aatixCYAAAAJ&hl=it)" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="G-Licitra" height="30" width="40" /></a>
+<a href="[google-scholar](https://scholar.google.com/citations?user=aatixCYAAAAJ&hl=it)" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="google-scholar" height="30" width="40" /></a>
+<a href="https://www.syscop.de/people/giovanni-licitra" target="blank"><img align="center" src="https://www.tf.uni-freiburg.de/de/bilder/logos/imtek/imtek-logo-web.png" alt="imtek" height="35" width="45" /></a>
+<a href="https://orcid.org/0000-0003-0585-0189" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="orcid" height="30" width="40" /></a>
+
   
-orchid, imtek
-<a href="www.linkedin.com/in/giovanni-licitra" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="G-Licitra" height="30" width="40" /></a>
+  
+  
 
 
 <br>

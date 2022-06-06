@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 <a href="https://www.syscop.de/people/giovanni-licitra" target="blank"><img align="center" src="https://www.tf.uni-freiburg.de/de/bilder/logos/imtek/imtek-logo-web.png" alt="imtek" height="35" width="45" /></a>
 <a href="https://orcid.org/0000-0003-0585-0189" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="orcid" height="30" width="40" /></a>
 
+  
 <br>
-<br>
+---
 
 ### 💻 Languages and Tools
 <img align="left" alt="Python" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
@@ -42,17 +43,18 @@ Here are some ideas to get you started:
 
   
 <br>
-<br>
-<br>
-<br>
   
-  
+---  
   
 | <a href="https://github.com/G-Licitra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=G-Licitra&count_private=true&show_icons=true&hide_border=true" alt="Giovanni's github stats" /></a> | <a href="https://github.com/G-Licitra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Licitra&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<br>
+---
 
+### :zap: Recent Activity
+  
+<!--START_SECTION:activity-->
+  
 <!--
 ### Public repositories skills chart
 

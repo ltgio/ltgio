@@ -42,7 +42,7 @@ orchid, imtek
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Licitra&count_private=true)
+![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Licitra&count_private=true)
 
 <br>
 
@@ -50,17 +50,22 @@ orchid, imtek
 
 
 ### Languages and Tools
-<img align="left" alt="Python" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
-<img align="left" alt="AWS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" />
-<img align="left" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Terminal" width="26px" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" />
+<img align="left" alt="Python" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
+<img align="left" alt="AWS" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
+<img align="left" alt="MySQL" width="40px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" />
+<img align="left" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img align="left" alt="GitHub" width="40px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
+<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="40px" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" />
+<img align="left" alt="Terminal" width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
+<img align="left" alt="Terminal" width="40px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" />  
 
   
 <br>
+<br>
 
+| <a href="https://github.com/G-Licitra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=G-Licitra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Giovanni's github stats" /></a> | <a href="https://github.com/G-Licitra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <br>
 

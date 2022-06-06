@@ -51,9 +51,16 @@ Here are some ideas to get you started:
 
 ---
 
-### :zap: Recent Activity
-  
-<!--START_SECTION:activity-->
+### 🗣 My activity:
+
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
+
+---
+
+<p align="center">
+  Last refresh: 
+  <b><!--TIMESTAMP--></b>
+</p>
   
 <!--
 ### Public repositories skills chart

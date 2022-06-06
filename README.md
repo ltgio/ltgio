@@ -31,12 +31,10 @@ Here are some ideas to get you started:
 
 ### 🔗 &nbsp; Connect with me/see my work
 <p align="left">
-<a href="www.linkedin.com/in/giovanni-licitra" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="google-scholar" height="30" width="40" /></a> 
+<a href="https://linkedin.com/in/giovanni-licitra" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="google-scholar" height="30" width="40" /></a> 
 <a href="https://scholar.google.com/citations?user=aatixCYAAAAJ&hl=en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="google-scholar" height="30" width="40" /></a>
 <a href="https://www.syscop.de/people/giovanni-licitra" target="blank"><img align="center" src="https://www.tf.uni-freiburg.de/de/bilder/logos/imtek/imtek-logo-web.png" alt="imtek" height="35" width="45" /></a>
 <a href="https://orcid.org/0000-0003-0585-0189" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="orcid" height="30" width="40" /></a>
-
-
 
 <br>
 <br>
@@ -55,9 +53,11 @@ Here are some ideas to get you started:
 <img align="left" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="GitHub" width="40px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Terminal" width="40px" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" />
-<img align="left" alt="Terminal" width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
-<img align="left" alt="Terminal" width="40px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" />  
+<img align="left" alt="ubuntu" width="40px" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" />
+<img align="left" alt="vscode" width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
+<img align="left" alt="Jira" width="40px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" />  
+<img align="left" alt="docker" height="45" width="40px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />  
+<img align="left" alt="kubernetis" width="40px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />  
 
   
 <br>

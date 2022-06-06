@@ -16,18 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋
-
-- 🔭 I’m currently working on a whole host of things, both personally and professionally
-- Interesting repositories to look at:
-  - [link](https://github.com/jameshtwose/jmspack)
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about Data Science, Optimization and Blockchain Technology
-- 😄 Pronouns: he/ him
-- ⚡ Fun fact:  
-
 
 ### 🔗 &nbsp; Connect with me/see my work
 <p align="left">
@@ -39,14 +27,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-Licitra&count_private=true)
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Licitra&langs_count=8&layout=compact&count_private=true)](https://github.com/G-Licira/github-readme-stats)
-
-
-### Languages and Tools
+### 💻 Languages and Tools
 <img align="left" alt="Python" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
 <img align="left" alt="AWS" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
 <img align="left" alt="MySQL" width="40px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" />
@@ -62,8 +43,12 @@ Here are some ideas to get you started:
   
 <br>
 <br>
-
-| <a href="https://github.com/G-Licitra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=G-Licitra&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Giovanni's github stats" /></a> | <a href="https://github.com/G-Licitra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Licitra&layout=compact&theme=default&hide_border=true" /></a> |
+<br>
+<br>
+  
+  
+  
+| <a href="https://github.com/G-Licitra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=G-Licitra&count_private=true&show_icons=true&hide_border=true" alt="Giovanni's github stats" /></a> | <a href="https://github.com/G-Licitra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Licitra&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br>
@@ -72,4 +57,7 @@ Here are some ideas to get you started:
 ### Public repositories skills chart
 
 <img align="center" alt="codersrank skills chart" width="80%" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=G-Licitra" />
+
+https://github-readme-stats.vercel.app/api?username=G-Licitra&show_icons=true&include_all_commits=true&theme=default&hide_border=true&count_private=true
+
 -->

@@ -1,5 +1,12 @@
 <!--
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm Giovanni</h1>
+
+
+
+
+Video by Pavel Danilyuk: https://www.pexels.com/video/video-of-a-robot-dance-8084496/
+
 
 **G-Licitra/G-Licitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Giovanni</h1>
+
 <h3 align="center">A passionate Lead Data Scientist living in The Netherlands</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bla&label=Profile%20views&color=0e75b6&style=flat" alt="bla" /> </p>

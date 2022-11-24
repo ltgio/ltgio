@@ -1,11 +1,6 @@
 <!--
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Giovanni</h1>
 
-
-
-
-Video by Pavel Danilyuk: https://www.pexels.com/video/video-of-a-robot-dance-8084496/
 
 
 **G-Licitra/G-Licitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Giovanni</h1>
+
+
+
+
+Video by Pavel Danilyuk: https://www.pexels.com/video/video-of-a-robot-dance-8084496/
 
 
 <h3 align="center">A passionate Lead Data Scientist living in The Netherlands</h3>
